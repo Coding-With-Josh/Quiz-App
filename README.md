@@ -15,7 +15,7 @@ Welcome to the Quiz App! This application is designed to provide an interactive 
 
 ## Demo
 
-Check out the live demo of the Quiz App [here](https://quizy-yusha.vercel.app/).
+Check out the live demo of the Quiz App [here](https://quizytopia.vercel.app/).
 
 ## Features
 

@@ -7,7 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Quizy - Test Your Knowledge!",
+  title: "QuizyTopia - Test Your Knowledge!",
   description: "A Quiz App built using Next JS",
 };
 
